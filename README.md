@@ -1,9 +1,10 @@
 ### Óla! eu sou o Jailson 👋
 
-- 💼 Hoje faço os projetos para praticar, ainda estou cursando a faculdade
-- 📚 Estudando,css,HTML5, javaScript, PHP, mySql, Java, Kotlin, engenharia de software🤣
-- ☎  Contate-me no email: jailson2013.silva@hotmail.com
-- 😄 Pronouns: ele/dele
+🎯 Desenvolvedor Full-Stack apaixonado por tecnologia e inovação.  
+💡 Experiência com **JavaScript, Node.js, Java e Microsoft Azure**.  
+🚀 Sempre em busca de aprender e compartilhar conhecimento.  
+📫 **Entre em contato:**  
+[LinkedIn](#https://www.linkedin.com/in/jailson-fernando-dev/) | [E-mail](mailto:jailson2013.silva@hotmail.com)
 
 
 <div  align="center" style="margin-bottom:100px">
