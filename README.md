@@ -4,7 +4,7 @@
 💡 Experiência com **JavaScript, Node.js, Java e Microsoft Azure**.  
 🚀 Sempre em busca de aprender e compartilhar conhecimento.  
 📫 **Entre em contato:**  
-[LinkedIn](#https://www.linkedin.com/in/jailson-fernando-dev/) | [E-mail](mailto:jailson2013.silva@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/jailson-fernando-dev/) | [E-mail](mailto:jailson2013.silva@hotmail.com)
 
 
 <div  align="center" style="margin-bottom:100px">
