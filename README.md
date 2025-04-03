@@ -1,5 +1,5 @@
 <h2 align="center">
-### Óla! eu sou o Jailson 👋<br><br>🎯 Desenvolvedor Full-Stack apaixonado por tecnologia e inovação.  <br>💡 Experiência com **JavaScript, Node.js, Java e Microsoft Azure**.  <br>🚀 Sempre em busca de aprender e compartilhar conhecimento.  <br>📫 **Entre em contato:**  <br>[LinkedIn](https://www.linkedin.com/in/jailson-fernando-dev/) | [E-mail](mailto:jailson2013.silva@hotmail.com)</h2>
+### Óla! eu sou o Jailson 👋<br><br>🎯 Desenvolvedor Full-Stack apaixonado por tecnologia e inovação.  <br>💡 Experiência com **JavaScript, Node.js, Java e Microsoft Azure**.  <br>🚀 Sempre em busca de aprender e compartilhar conhecimento. 
 
 ###
 
